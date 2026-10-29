@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Carlos Alberto Martinez Barrera - Programmer from Mexico"/>
+  <img src="./assets/404notfoundmyteapot.png" width="100%" alt="Carlos Alberto Martinez Barrera - Programmer from Mexico"/>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 <div align="left">
   <h3 align="left">My info:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ingmtzb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/IngMtzB/IngMtzB/output/langs.svg" height="180" alt="most used languages graph"  />
+  <img src="https://raw.githubusercontent.com/IngMtzB/IngMtzB/output/stats.svg" height="200" alt="GitHub stats"  />
+  <img src="./assets/terminal.svg" height="200" alt="terminal typing a Python greeting"  />
 </div>
 
 ###
